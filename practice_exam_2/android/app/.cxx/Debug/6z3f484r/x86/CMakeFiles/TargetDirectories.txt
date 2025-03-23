@@ -1,0 +1,2 @@
+C:/Users/Admin/AndroidStudioProjects/practice_exam_2/android/app/.cxx/Debug/6z3f484r/x86/CMakeFiles/edit_cache.dir
+C:/Users/Admin/AndroidStudioProjects/practice_exam_2/android/app/.cxx/Debug/6z3f484r/x86/CMakeFiles/rebuild_cache.dir
