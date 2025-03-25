@@ -30,8 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  font_awesome_flutter: '>= 4.7.0'
+  path: any
   http: any
+  sqflite: any
 
 
   # The following adds the Cupertino Icons font to your application.
