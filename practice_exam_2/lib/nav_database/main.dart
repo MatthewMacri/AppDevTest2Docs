@@ -4,6 +4,7 @@ import 'package:path/path.dart';
 import 'package:practice_exam_2/nav_database/registerpage.dart';
 import 'package:sqflite/sqflite.dart';
 import 'homescreen.dart';
+import 'package:sqflite/sqflite.dart';
 
 class User {
   String username;
